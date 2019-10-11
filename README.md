@@ -39,15 +39,17 @@ What are the steps?
 
 ## Problems
 
-We do not want to change the people but to understand them. Why are they doing something like this or that? When there is a UX change or change request there is a motivation behind. First, we need to collect the most problematic things when using a bitcoin wallet.
+We do not want to change the people but to understand them. Why are they doing something like this or that? When there is a UX change or change request there is a motivation behind. First, we need to collect the most problematic things when using a bitcoin wallet in general with one-liners. One-liners force the users to pinpoint the problem without going into a story and/or suggest a solution or a new feature. Later this will be required but right now we are focusing on the problems only.
 
-__Fall in love with the problem - not the solution__
+> __Fall in love with the problem - not the solution__
+
+Practical helper questions
 
 When you are using bitcoin:
 
-- What was the last problem where you wasted a lot of time?
-- What are the pain points when you are using bitcoin?
+- What are the pain points when you are using bitcoin wallets in general?
 - What annoys you most?
+- What was the last problem where you wasted a lot of time?
 
 ## Next steps
 
