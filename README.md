@@ -3,7 +3,7 @@
 ## Public Tender
 
 <p align="center">
-  <img align="right" src="https://i.imgur.com/5dT4mLL.png">
+  <img align="right" src="https://i.imgur.com/Odsc3j5.png">
 </p>
 
 - Are you an **everyday bitcoin user**?
