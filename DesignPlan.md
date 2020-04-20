@@ -58,7 +58,7 @@ Instead, step back and try to find out what is the motivation behind. Find out w
   - What is the ideal way of doing this or that?
   
 #### 7. Do not ask about design. 
-Instead, see if he can use it. "The 5 seconds test." Design stories: https://blog.uxfol.io/
+Instead, see if he can use it. "The 5 seconds test." [Design stories](https://blog.uxfol.io/):
   - Say a few words about this.
   - Usability test. 
   
@@ -69,10 +69,3 @@ Instead: ask simple questions.
 #### Why? Why? Why?
 
 Find the root of the problem, use the [5 Whys method](https://en.wikipedia.org/wiki/Sakichi_Toyoda).
-
-  
-
-
-  
-  
-  
