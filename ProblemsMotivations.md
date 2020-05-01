@@ -4,6 +4,18 @@ While we already have a working wallet it is worth to get back to the basics and
 
 So now please sit down and write 5 short sentences that start with, "My problem is, ..."
 
+Helper questions: 
+
+Regarding crypto...
+
+- What is your the biggest problem?
+- Tell me your 3 most annoying problems?
+- What is your pain-point?
+
+- What do you spend the most time on?
+- What do you spend the most money on?
+- What is the most important thing for you?
+
 # General Problems
 
 - I don't know how to send/receive.
@@ -33,7 +45,6 @@ So now please sit down and write 5 short sentences that start with, "My problem 
 
 - I don't know what kind of private infomations am I sharing with who, when I am using a wallet. (comparison table)
 
-
 - I have to verify a lot of numbers when copy/paste bitcoin addresses, scary.
 - I didn't know that I have coins.
 
@@ -57,12 +68,9 @@ So now please sit down and write 5 short sentences that start with, "My problem 
 - I cannot use the same wallet software on every platform (desktop and mobile).
 - Interoperatibility between different wallets, bisq?
 
-
 # Motivations
 
 - I want to invest in bitcoin.
 - I want to store my money. 
 - I want my financial privacy back. 
 - I don't trust in anyone, I want to store and control my own money.
-
-
