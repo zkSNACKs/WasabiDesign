@@ -37,41 +37,43 @@ Regarding crypto...
 - I don't understand specific terminology.
 - I don't speak english.
 - How much fiat do I have currently in my wallet?
-- I am not sure that I am doing things in a proper way. My workflow is good or not?
+- I am not sure that I am doing things in a proper way. Is my workflow good or not?
 
-- What happens if I lost my device or stolen?
+- What happens if I lose my device or it gets stolen?
 - I don't know if my wallet is safe if somebody gets my laptop.
-- I am not sure that I have writted down correcly my mnemonics and stored it in a safe way.
-- I am not sure that I have backed up my wallet properly. 
+- I am not sure that I have written down correctly my mnemonics and stored it in a safe way.
+- I am not sure that I have backed up my wallet properly.
 
-- I don't know what kind of private infomations am I sharing with who, when I am using a wallet. (comparison table)
+- I don't know what kind of private information am I sharing with who, when I am using a wallet. (comparison table)
 
-- I have to verify a lot of numbers when copy/paste bitcoin addresses, scary.
+- I have to verify a lot of characters when I copy/paste bitcoin addresses, which is scary.
 - I didn't know that I have coins.
 
-- I don't know the exact fees. 
-- Confirmation time and fees how is it related. 
+- I don't know the exact fees.
+- Confirmation time and fees how is it related.
 
-- Badly designed wallets. They are ugly. 
+- Badly designed wallets. They are ugly.
 - The UI of the wallets are not good.
 
-- Different units used those are unknows sats, bitcoin.
-- Unknown and not standardized terms used in different softwares. 
-- I have to send my address every time I receive, complicated. 
+- Different units used that are unknown sats, bitcoin.
+- Unknown and not standardized terms used in different software.
+- I have to send my address every time I receive, complicated.
 
 - I want to have only one wallet with one backup, but somehow different profiles to separate businesses.
-- I want to have only one wallet even among devices (mobile phone and desktop)
-- I have to test the wallet in live with real money. What if I do something wrong and loose that money?
+- I want to have only one wallet even among devices (mobile phone and desktop).
+- I have to test the wallet in live with real money. What if I do something wrong and lose that money?
 
-- I had to study bitcoin before the usage, learning curve. 
+- How can I segregate my transaction history?
+- What are statistics on my receiving and spending habits? 
+- I had to study Bitcoin before using it, learning curve.
 
 - I am not able to personalize the feature in my wallet.
 - I cannot use the same wallet software on every platform (desktop and mobile).
-- Interoperatibility between different wallets, bisq?
+- Interoperability between different wallets, bisq?
 
 # Motivations
 
 - I want to invest in bitcoin.
-- I want to store my money. 
-- I want my financial privacy back. 
+- I want to store my money.
+- I want my financial privacy back.
 - I don't trust in anyone, I want to store and control my own money.
