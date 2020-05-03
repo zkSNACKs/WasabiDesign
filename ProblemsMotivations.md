@@ -1,6 +1,6 @@
 This is a list that collects problems and motivations related to crypto wallets in general. This is not focusing on a specific implementation.
 
-While we already have a working wallet it is worth to get back to the basics and re-evaluate: **What are the problems we want to solve in real life with a crypto wallet?**
+While we already have a working wallet it is important to get back to the basics and re-evaluate: **What are the problems we want to solve in real life with a crypto wallet?**
 
 So now please sit down and write 5 short sentences that start with, "My problem is, ..."
 
@@ -8,8 +8,8 @@ Helper questions:
 
 Regarding crypto...
 
-- What is your the biggest problem?
-- Tell me your 3 most annoying problems?
+- What is your biggest problem?
+- What is your top three most annoying problems?
 - What is your pain-point?
 
 - What do you spend the most time on?
@@ -30,12 +30,13 @@ Regarding crypto...
 - Which software should I use?
 
 - Why bitcoin?
-- How it is different from traditional banking system?
+- How is it different from the traditional banking system?
 - Should I buy bitcoin or altcoins?
 
-- I cannot use the softwares, don't know what to do there.
-- I don't understand, I don't speak english.
-- How much fiat do I have currenly in my wallet?
+- I cannot use the software, I don't know what to do there.
+- I don't understand specific terminology.
+- I don't speak english.
+- How much fiat do I have currently in my wallet?
 - I am not sure that I am doing things in a proper way. My workflow is good or not?
 
 - What happens if I lost my device or stolen?
