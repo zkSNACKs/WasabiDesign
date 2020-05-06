@@ -32,6 +32,7 @@
  - How would you get back your crypto?
 - What are the most annoying things when using crypto?
 - What are the topics/terms those making you uncertain about your crypto knowledge?
+- How do you ensure your privacy?
 - Have you ever been asked about crypto by your friends, what kind of questions did they make?
 
 ## Finally
