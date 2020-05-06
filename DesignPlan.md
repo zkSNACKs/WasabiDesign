@@ -69,3 +69,14 @@ Instead: ask simple questions.
 #### Why? Why? Why?
 
 Find the root of the problem, use the [5 Whys method](https://en.wikipedia.org/wiki/Sakichi_Toyoda).
+
+# Processing the results
+
+In addition to the voice records, you can take quick notes. These symbols will help you quickly categorize:
+- ~ it is a story or a process.
+- :( it is a problem.
+- :) it is a motivation.
+- " it is a quote.
+
+
+
