@@ -3,7 +3,7 @@
 ## Warmup
 
 - Thank you for being here and spend your time on this research.
-- This interview will be about half an hour and the topic is everyday crypto-currency usage in your life.
+- This interview will be about half an hour long and the topic is everyday cryptocurrency usage in your life.
 - I would like to emphasize there are no good or bad answers, just tell me your thoughts about it.
 - Do you agree with recording the interview? 
 
