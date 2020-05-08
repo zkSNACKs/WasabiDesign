@@ -2,12 +2,6 @@
 
 * Minimum size: 1024x768 (previous? 1100x530)
 
-# Colors
-
-* Dark mode 
-  
-  [Imgur](https://imgur.com/IWCNgCC)
-
 # Fonts
 
 * Fonts in consideration for the general-purpose text are defined in https://github.com/zkSNACKs/WasabiDesign/issues/9; 
@@ -25,6 +19,8 @@
 
 # Standardized Color Scheme/Palette.
 
-TBD.
+* Dark mode 
+  
+![Imgur](https://i.imgur.com/YYpevH7.png)
 
 
