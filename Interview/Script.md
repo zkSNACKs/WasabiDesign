@@ -4,7 +4,7 @@
 
 - Thank you for being here and spend your time on this research.
 - This interview will be about half an hour long and the topic is everyday cryptocurrency usage in your life.
-- I would like to emphasize there are no good or bad answers, just tell me your thoughts about it.
+- I would like to emphasize that there are no good or bad answers, just tell me your thoughts about it.
 - Do you agree with recording the interview?
 
 ## Questions
@@ -23,7 +23,7 @@
 - What was your biggest challenge when you started to use cryptocurrencies?
 - What was the hardest part of learning to use a wallet?
  - Where did you get the essential information?
-- Who do you trust in the cryptocurrency era? How did you make your decision?
+- Who do you trust in the cryptocurrency space? How did you make your decision?
 - What is your biggest challenge now? 
 - What was your last horror-moment when using cryptocurrencies?
  - What do you usually double-check when doing everyday stuff with your wallet? What are you super aware of?
@@ -33,7 +33,7 @@
 - What are the most annoying things when using cryptocurrencies?
 - What are the topics/terms that make you uncertain about your cryptocurrencies knowledge?
 - How do you ensure your privacy?
-- Have you ever been asked about cryptocurrencies by your friends, what kind of questions did they make?
+- Have you ever been asked about cryptocurrencies by your friends or family? What kind of questions did they make?
 
 ## Finally
 
