@@ -7,3 +7,6 @@ Minimum size: 1024x768 (previous? 1100x530)
 Dark mode
 
 [Imgur](https://imgur.com/IWCNgCC)
+
+# Fonts
+
