@@ -1,6 +1,7 @@
 # Window size
 
-* Minimum size: 1024x768 (previous? 1100x530)
+* Minimum size: 1024x576
+* Ratio: 16:9
 
 # Fonts
 
