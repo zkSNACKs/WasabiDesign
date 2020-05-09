@@ -4,10 +4,10 @@
 
 # Fonts
 
-* Fonts in consideration for the general-purpose text are defined in https://github.com/zkSNACKs/WasabiDesign/issues/9; 
+* Fonts in consideration for the general-purpose text are defined in https://github.com/zkSNACKs/WasabiDesign/issues/9;
 * The app should only contain one font for general purpose text and must not mix more than 2 fonts in a single view.
 
-* Fonts must be open source and has permissive license to allow transparency and also aid in the privacy of the users.
+* Fonts must be open source and have permissive license to allow transparency and also aid in the privacy of the users.
 
 # Icons and other graphical elements.
 
@@ -22,5 +22,4 @@
 * Dark mode 
   
 ![Imgur](https://i.imgur.com/YYpevH7.png)
-
 
