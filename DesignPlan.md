@@ -77,6 +77,3 @@ In addition to the voice records, you can take quick notes. These symbols will h
 - :( it is a problem.
 - :) it is a motivation.
 - " it is a quote.
-
-
-
